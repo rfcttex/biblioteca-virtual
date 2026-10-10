@@ -91,4 +91,4 @@ Contribuições são bem-vindas! Por favor, faça fork do projeto e submeta um p
 
 ## Licença
 
-Liçença livre para estudo
+Licença livre para estudo
